@@ -1,16 +1,8 @@
-# geocoding_new
+# GeoMap-Flutter-demo
+Second part of Smart Transit project: a mobile application to display geographical data. The objective of this program is to use a mobile application medium to visual data collected from GPS sensors to help with Smart Transit. An example would be using geodata of transit buses and displaying them on the map to help passengers know when buses arrive at stops. This program is a early prototype of using Flutter to display a map with markers using a maps API.
 
-A new Flutter project.
+# Mobile Application
+Prototype is built using Flutter, however the mobile application can be built with any language as the features are logically possible.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Instructions
+To run flutter applications, you need to download flutter sdk and follow the instructions on www.flutter.dev and complete all the steps. In addition, when you open the folder for each app, you must goto pubspec.yaml and press get packages or ctrl + s(In visual studio code) to get the necessary packages needed for the application. After that, you can run the application under the folder lib and run the file called main.dart.(F5)
