@@ -5,7 +5,7 @@ IoT and Mobile Application Project under Vdart Digital
 Second part of Smart Transit project: a mobile application to display geographical data. The objective of this program is to use a mobile application medium to visualize data collected from GPS sensors to help with Smart Transit. An example would be using geodata of transit buses and displaying them on the map to help passengers know when buses arrive at stops. This program is a early prototype of using Flutter to display a map with markers using a maps API.
 
 # Mobile Application
-Prototype is built using Flutter, however the mobile application is a skeleton with minimal function.
+This is a prototype built using flutter.
 
 ![sample_app_Image](https://github.com/stevenzhang070302/GeoMap-Flutter-demo/blob/master/smart_transit_image.PNG?raw=true)
 
