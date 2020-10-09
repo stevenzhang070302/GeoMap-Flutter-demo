@@ -4,5 +4,7 @@ Second part of Smart Transit project: a mobile application to display geographic
 # Mobile Application
 Prototype is built using Flutter, however the mobile application can be built with any language as the features are logically possible.
 
+![sample_app_Image](https://github.com/stevenzhang070302/GeoMap-Flutter-demo/blob/master/smart_transit_image.PNG?raw=true)
+
 # Instructions
 To run flutter applications, you need to download flutter sdk and follow the instructions on www.flutter.dev and complete all the steps. In addition, when you open the folder for each app, you must goto pubspec.yaml and press get packages or ctrl + s(In visual studio code) to get the necessary packages needed for the application. After that, you can run the application under the folder lib and run the file called main.dart.(F5)
